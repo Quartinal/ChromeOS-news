@@ -1,7 +1,7 @@
 # ChromeOS News
 ## News about the latest school Chromebook exploits.
 
-<h3 style="color:salmon;">E <span style="color:turquoise;">x</span> P  <span style="color:turquoise;">l</span> o <span style="color:turquoise;">i</span> T <span style="color:turquoise;">s</span></h3>
+### 🔓 **E x P l o i T s**
 
 ### **B**a*g*h***d***a**d**
 
